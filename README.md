@@ -4,13 +4,6 @@
       
       🤓  Learning: Python, Solidity, Algorithms, Data Structures, DevOps.  
       
-   ##################### CHECK OUT THIS COOL PROJECT  #####################
-   
-      * An amazing project I am involved with is "Win Win" - a mediation marketplace being built on the Cardano blockchain.  
-        https://cardano.ideascale.com/a/dtd/Win-Win-Dispute-Resolution/368353-48088 
-        
-        For Cardano people, this project is currently under vote in Fund 6. 😉 
-        
     ##################### MY TECH JOURNEY AND MISSION  #####################
       
     * In April, 2021, I started my journey to becoming a software developer. 😎    
@@ -43,9 +36,6 @@
     * Using AI and ML for legal prediction [analysis of statutes, administrative agency rulings, and case law for regulatory purposes].
 
 - 💞️ I’m looking to collaborate on projects that offer "FLaaS" or "Friendly-Law-as-a-Service". 
-
-    * An amazing project I am involved with is "Win Win" - a mediation marketplace being built on the Cardano blockchain.  
-      https://cardano.ideascale.com/a/dtd/Win-Win-Dispute-Resolution/368353-48088 
 
 - 📫 How to reach me at cyberlawcodes@gmail.com.  
 
