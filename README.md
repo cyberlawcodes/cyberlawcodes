@@ -6,7 +6,7 @@ Hello. I am a California lawyer and developer. Email me at cyberlawcodes@gmail.c
 
 I completed the nucamp software development bootcamp (MERN/Python/DevOps) while traveling and living in Latin America.  During this time, I also researched and analyzed the changes taking place in the legal industry and to the general marketplace in response to the Corona pandemic.  
 
-## Design Mindset to Better Understanding Users and Developing Products
+## Design Mindset to Better Understand Users and Develop Products
 
 While working on portfolio projects, I realized that coding and market research was not enough.  I was selecting projects based on what I thought might be helpful - based on my own experiences as a lawyer and industry reports (like the California State Bar's 2019 Justice Gap Report).  But the market and user needs had changed dramatically since 2019.  And without proper design, the best logic in the world would probably fail to serve intended audiences.  So my journey's path led me to user experience.  I'm particularly interested in adapting deesign thinking to define and validate ideas.  The application of user research to solving legal problems is expected create a road map to better product development.  Idea validation and flexible, consistently tested roadmaps should, in turn, lead to efficient and agile processes. Currently, I am conducting and publishing my own case studies. 
 
