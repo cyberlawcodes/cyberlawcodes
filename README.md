@@ -4,11 +4,11 @@ Hello. I am a California lawyer and developer. Email me at cyberlawcodes@gmail.c
 
 ## Software Development Bootcamp
 
-I completed the nucamp software development bootcamp (MERN/Python/DevOps) while traveling and living in Latin America.  During this time, I also researched and analyzed the changes taking place in the legal industry and to the general marketplace in response to the Corona pandemic.  
+I completed the nucamp software development bootcamp (MERN/Python/DevOps) while traveling and living in Latin America.  During this time, I also researched and analyzed the changes taking place in the legal industry and to the general marketplace in response to the Corona pandemic.  I am very interested in JAMstack architecture and headless CMS. I like the idea of efficiently and quickly prototyping, testing, and reiterating digital products and content. 
 
 ## Design Mindset to Better Understand Users and Develop Products
 
-While working on portfolio projects, I realized that coding and market research was not enough.  I was selecting projects based on what I thought might be helpful - based on my own experiences as a lawyer and industry reports (like the California State Bar's 2019 Justice Gap Report).  But the market and user needs had changed dramatically since 2019.  And without proper design, the best logic in the world would probably fail to serve intended audiences.  So my journey's path led me to user experience.  I'm particularly interested in adapting deesign thinking to define and validate ideas.  The application of user research to solving legal problems is expected create a road map to better product development.  Idea validation and flexible, consistently tested roadmaps should, in turn, lead to efficient and agile processes. Currently, I am conducting and publishing my own case studies. 
+While working on portfolio projects, I realized that coding and market research was not enough.  I was selecting projects based on what I thought might be helpful - based on my own experiences as a lawyer and industry reports (like the California State Bar's 2019 Justice Gap Report).  But the market and user needs had changed dramatically since 2019.  And without proper design, the best logic in the world would probably fail to serve intended audiences.  I'm currently enrolled in Interaction Design Foundation's User Research bootcamp.  Conducting user research and designing and testing prototypes may help build better products. 
 
 ## Tech Experience
 - Languages/libraries (junior level):
@@ -18,7 +18,7 @@ While working on portfolio projects, I realized that coding and market research 
      - MongoDB, Postgres
      - DevOps
     
-- Additional Interests:
+- Additional Interests
      - UX writing to explain legal concepts    
      - Jamstack architecture
      - NextJS for server-side rendering and greater SEO
@@ -41,9 +41,9 @@ Over 18 years of experience litigating labor/employment, business, and IP cases.
 
 ## Creative Experience    
 
-I am a painter with favorite influences from Latin America/German Expressionism.  Twice, I exhibited at the Dia De Los Muertos festival (Hollywood Forever Cemetery), Los Angeles, California.
+I am a painter with modern influences, particularly Latin America/German Expressionism.  Twice, I exhibited at the Dia De Los Muertos festival (Hollywood Forever Cemetery), Los Angeles, California.
 
-## Justice Gap + Tech 
+## Influences in Identifying Problems to Design For:  California's Justice Gap 
 
 In 2019, the California State Bar published a study in which it identified a gap in justice for Californians. 
 - The gap includes: 
